@@ -80,6 +80,8 @@ Move the ISO you downloaded to an external hard drive or upload it to the cloud.
 <br>
 </br>
 
+<h2>Creating the virtual machine.</h2>
+
 Download <a href="https://mac.getutm.app/"> UTM </a> from the oficial website. 
 
 Create a new virtual machine.
