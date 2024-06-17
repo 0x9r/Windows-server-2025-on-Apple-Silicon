@@ -80,27 +80,45 @@ Move the ISO you downloaded to an external hard drive or upload it to the cloud.
 
 <img src="/img/9.png" />
 
+<br>
+</br>
+
 Download <a href="https://mac.getutm.app/"> UTM </a> from the oficial website. 
 
 Create a new virtual machine.
 
 <img src="/img/10.png" />
 
+<br>
+</br>
+
 Virtualize.
 
 <img src="/img/11.png" />
+
+<br>
+</br>
 
 Select Windows.
 
 <img src="/img/12.png" />
 
+<br>
+</br>
+
 Select search.
 
 <img src="/img/13.png" />
 
+<br>
+</br>
+
 Select the ISO that we downloaded.
 
 <img src="/img/14.png" />
+
+<br>
+</br>
 
 Configure your hardware and start the VM.
 
