@@ -9,4 +9,51 @@ The first step will be to create the ISO from UUP Dump (https://uupdump.net/know
 <br>
 </br>
 
-test
+We download the marked option.
+
+1.png
+
+Next
+
+2.png
+
+And next again.
+
+3.png
+
+Click on "Create download package"
+
+4.png
+
+We unzip the file.
+
+5.png
+
+Run this file as administrator.
+
+6.png
+
+If you see this message, don't worry. Run it, it doesn't have malware.
+
+7.png
+
+If you get an error when running the script, open a new cmd, copy the path, and run it from that new cmd.
+
+<br>
+</br>
+
+Press Z
+
+8.png
+
+We wait for it to finish.
+
+If you encounter any other errors or it gets stuck in a loop while installing the ISO, I recommend disabling Windows Defender. I faced that issue and resolved it this way.
+
+Move the ISO you downloaded to an external hard drive or upload it to the cloud.
+
+9.png
+
+Download <a href="https://mac.getutm.app/"> UTM </a> from the oficial website 
+
+
