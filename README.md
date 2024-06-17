@@ -54,6 +54,32 @@ Move the ISO you downloaded to an external hard drive or upload it to the cloud.
 
 9.png
 
-Download <a href="https://mac.getutm.app/"> UTM </a> from the oficial website 
+Download <a href="https://mac.getutm.app/"> UTM </a> from the oficial website. 
 
+Create a new virtual machine.
 
+10.png
+
+Virtualize.
+
+11.png
+
+Select Windows.
+
+12.png
+
+Select search.
+
+13.png
+
+Select the ISO that we downloaded.
+
+14.png
+
+Configure your hardware and start the VM.
+
+Once started, proceed with the installation of the operating system.
+
+And welcome to your virtual machine Windows Server 2025 on Apple Silicon processors (M1, M2, M3, M4).
+
+15.png
