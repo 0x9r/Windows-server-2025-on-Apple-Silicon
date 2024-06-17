@@ -15,29 +15,50 @@ We download the marked option.
 
 <img src="/img/1.png" />
 
+<br>
+</br>
+
 Next
 
 <img src="/img/2.png" />
+
+<br>
+</br>
 
 And next again.
 
 <img src="/img/3.png" />
 
+<br>
+</br>
+
 Click on "Create download package"
 
 <img src="/img/4.png" />
+
+<br>
+</br>
 
 We unzip the file.
 
 <img src="/img/5.png" />
 
+<br>
+</br>
+
 Run this file as administrator.
 
 <img src="/img/6.png" />
 
+<br>
+</br>
+
 If you see this message, don't worry. Run it, it doesn't have malware.
 
 <img src="/img/7.png" />
+
+<br>
+</br>
 
 If you get an error when running the script, open a new cmd, copy the path, and run it from that new cmd.
 
@@ -47,6 +68,9 @@ If you get an error when running the script, open a new cmd, copy the path, and 
 Press Z
 
 <img src="/img/8.png" />
+
+<br>
+</br>
 
 We wait for it to finish.
 
