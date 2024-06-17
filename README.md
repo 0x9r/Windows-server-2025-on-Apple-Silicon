@@ -11,7 +11,7 @@ The first step will be to create the ISO from <a href="https://uupdump.net/known
 
 We download the marked option.
 
-1.png
+<img src/img/1.png />
 
 Next
 
