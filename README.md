@@ -15,27 +15,27 @@ We download the marked option.
 
 Next
 
-2.png
+<img src="/img/2.png" />
 
 And next again.
 
-3.png
+<img src="/img/3.png" />
 
 Click on "Create download package"
 
-4.png
+<img src="/img/4.png" />
 
 We unzip the file.
 
-5.png
+<img src="/img/5.png" />
 
 Run this file as administrator.
 
-6.png
+<img src="/img/6.png" />
 
 If you see this message, don't worry. Run it, it doesn't have malware.
 
-7.png
+<img src="/img/7.png" />
 
 If you get an error when running the script, open a new cmd, copy the path, and run it from that new cmd.
 
@@ -44,7 +44,7 @@ If you get an error when running the script, open a new cmd, copy the path, and 
 
 Press Z
 
-8.png
+<img src="/img/8.png" />
 
 We wait for it to finish.
 
@@ -52,29 +52,29 @@ If you encounter any other errors or it gets stuck in a loop while installing th
 
 Move the ISO you downloaded to an external hard drive or upload it to the cloud.
 
-9.png
+<img src="/img/9.png" />
 
 Download <a href="https://mac.getutm.app/"> UTM </a> from the oficial website. 
 
 Create a new virtual machine.
 
-10.png
+<img src="/img/10.png" />
 
 Virtualize.
 
-11.png
+<img src="/img/11.png" />
 
 Select Windows.
 
-12.png
+<img src="/img/12.png" />
 
 Select search.
 
-13.png
+<img src="/img/13.png" />
 
 Select the ISO that we downloaded.
 
-14.png
+<img src="/img/14.png" />
 
 Configure your hardware and start the VM.
 
@@ -82,4 +82,4 @@ Once started, proceed with the installation of the operating system.
 
 And welcome to your virtual machine Windows Server 2025 on Apple Silicon processors (M1, M2, M3, M4).
 
-15.png
+<img src="/img/15.png" />
