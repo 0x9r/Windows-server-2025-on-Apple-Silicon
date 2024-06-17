@@ -62,9 +62,6 @@ If you see this message, don't worry. Run it, it doesn't have malware.
 
 If you get an error when running the script, open a new cmd, copy the path, and run it from that new cmd.
 
-<br>
-</br>
-
 Press Z
 
 <img src="/img/8.png" />
